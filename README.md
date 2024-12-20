@@ -1,6 +1,8 @@
 # Writing Portfolio
 **Evelyn Drake**
-**Case Western Reserve University**
+
+Case Western Reserve University
+
 2022-2024
 ## Introduction
 This is a selection of my written coursework at Case Western Reserve University. I've selected works from a variety of different genres (academic essays, literature reviews, professional communication, etc.) to represent my writing.
