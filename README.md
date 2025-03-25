@@ -17,4 +17,4 @@ This is a selection of my written coursework at Case Western Reserve University.
 - FSSY186H - Disability and Eugenic Monsters (Fall 2022)
 
 ## Recommendations
-One of my favorite papers is the Case Study Report (ENGL217), which is directly related to my aspirations in the fields of software engineering and technical writing.
+One of my favorite papers is the [Case Study Report (ENGL217)](https://github.com/evelyndrake/writing-portfolio/blob/main/Case%20Study%20Report%20(ENGL217).pdf), which is directly related to my aspirations in the fields of software engineering and technical writing.
