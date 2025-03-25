@@ -16,5 +16,5 @@ This is a selection of my written coursework at Case Western Reserve University.
 - USSO286V - Chronic Illness in a Cultural Context (Spring 2023)
 - FSSY186H - Disability and Eugenic Monsters (Fall 2022)
 
-##Recommendations
+## Recommendations
 One of my favorite papers is the Case Study Report (ENGL217), which is directly related to my aspirations in the fields of software engineering and technical writing.
